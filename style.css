@@ -1,0 +1,45 @@
+body {
+  width:auto;
+  height:auto;
+  text-align:center;
+background-image: url(gif2.gif);
+background-color: black;
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat, no-repeat;
+background-size: cover, 20%;
+background-position: center center ,left top;
+height:100%;
+}
+.myinput{
+  border:4px outset deepskyblue;
+  background-color: transparent;
+  box-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  background-color: white;
+}
+.button1{
+  border:4px outset deepskyblue;
+  background-color: transparent;
+  box-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  background-color: white;
+}
+.button2{
+  border:4px outset deepskyblue;
+  background-color: transparent;
+  box-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  background-color: white;
+  
+}
+.myinput1 {
+  border: 4px outset deepskyblue;
+  background-color: transparent;
+  box-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  background-color: white;
+}
+/*.imagec{
+  border-radius: 50%;
+  width:75px;
+  height:75px;
+  border-radius: 99em;
+  border: 5px solid silver;
+}*/
